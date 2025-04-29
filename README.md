@@ -19,3 +19,15 @@ Pour gérer l’interruption nous faisons celà en plusieurs étapes :
 Il faut brancher : vert=  PD2, jaune  = PD6
 
 Pour ne pas s’embéter à détecter le moment du retour, nous utiliserons le port d’interruption.
+
+# Joystick
+
+Il faut brancher les ports analogiques (X et Y) du joystick sur PA0 et PA1. Ce sont les entrées ADC.
+
+Le bouton SEL est numérique, il peut être branché n’importe où.
+
+# 
+
+# Bluetooth
+
+Brancher TX module sur PD0 et RX module sur PD1
